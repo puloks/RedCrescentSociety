@@ -1,0 +1,70 @@
+
+.wrap{
+	border:5px solid red;
+	height: 600px;
+	width: 1100px;
+	margin: 10px 0px 10px;
+}
+.logo img{
+	    padding: 20px;
+}
+.wrap h1{
+	color: red;
+    font-size: 36px;
+    margin-top: 20px;
+    margin-left: -65px;
+}
+
+
+.wrap p{
+	font-size: 20px;
+    font-weight: 500;
+    margin-left: 38px;
+    margin-top: -18px;
+}
+.container{
+	background-image: url(Pakistan-Red-Crescent-Society-PRCS-logo.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+span {
+    font-size: 22px;
+    color: #3f88c1;
+    transform: rotate(90deg)translate(68px, 145px);
+    /* -webkit-transform: rotate(-90deg)translate(-45px, -30px); */
+    -moz-transform: rotate(-90deg)translate(-45px, -30px);
+    -o-transform: rotate(-90deg)translate(-45px, -30px);
+    display: inline-block;
+    font-weight: 700;
+    margin-top: 90px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.mid_content{
+	margin-left: -168px;
+	margin-top: 27%;
+}
+.mid_content h6 {
+    font-size: 21px;
+    color:#000000d1;
+}
+.mid_content h2{
+    margin-left: -88px;
+}
+.mid_content p{
+    color: #000000d1;
+    margin-left: -155px;
+    margin-top: 40px;
+}
+.right_content {
+    border: 3px solid #37865e;
+    height: 391px;
+    width: 269px;
+    margin-top: -65px;
+    margin-left: 50px;
+}
+.footer h4{
+	margin-left: 18px;
+	margin-top: 30px;
+}
